@@ -1,0 +1,15 @@
+numpy
+scipy
+scikit-learn >= 0.22
+pandas
+matplotlib
+torch
+torchvision
+grad_cam
+torchcam
+lion-pytorch
+shapely
+vit-pytorch
+pykalman
+hampel
+tsfel
