@@ -27,3 +27,27 @@ The requirements can be installed using the following command:
 - GeoLife GPS Trajectories Version 1.3: [geolifdataset](https://msropendata.com/datasets/3b8d1783-2c4f-4bdf-aa58-db777d0fd037)
 
 
+### Training and Testing Model
+
+
+```bash
+python train.py
+```
+
+
+
+### Pre-Trained Models
+
+- [Best DeepInsigh + DeepViT](https://drive.google.com/file/d/1WIQa7SmQAIizfRUCDdOh-EP3-z3b74Io/view?usp=drive_link)
+
+
+- [Best Coords file](https://drive.google.com/file/d/10YL2iLS82VVesxhS1wNvSUhY9G3Fgclo/view?usp=drive_link)
+
+### Demo for transport mode identification using pre-trained model
+
+
+```bash
+python demo.py
+```
+
+

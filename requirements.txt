@@ -12,4 +12,4 @@ shapely
 vit-pytorch
 pykalman
 hampel
-tsfel
+tsfel==0.1.5
